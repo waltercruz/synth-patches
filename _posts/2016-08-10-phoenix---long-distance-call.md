@@ -11,6 +11,6 @@ tags: [synth,freeware,tal-noisemaker]
 
 The synth patch from this song. A kind of synth brass, slow attack, simple to do.
 
-{% clip uhqajqs4 %}
+<iframe width="100%" height="160px" src="//clyp.it/uhqajqs4/widget" frameborder="0" allowfullscreen=""></iframe>
 
 Used synth: TAL-NoiseMaker
