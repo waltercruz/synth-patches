@@ -14,3 +14,5 @@ The synth patch from this song. A kind of synth brass, slow attack, simple to do
 <iframe width="100%" height="160px" src="//clyp.it/uhqajqs4/widget" frameborder="0" allowfullscreen=""></iframe>
 
 Used synth: TAL-NoiseMaker
+
+<a href="/patches/long-distance.zip"><span class="glyphicon glyphicon-download-alt"></span> Patch download</a>
