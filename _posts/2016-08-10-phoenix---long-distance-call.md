@@ -17,4 +17,4 @@ The synth patch from this song. A kind of synth brass, slow attack, simple to do
 
 Used synth: TAL-NoiseMaker
 
-<a href="/patches/long-distance.zip"><span class="glyphicon glyphicon-download-alt"></span> Patch download</a>
+<a href="{{ BASE_PATH }}/patches/long-distance.zip"><span class="glyphicon glyphicon-download-alt"></span> Patch download</a>

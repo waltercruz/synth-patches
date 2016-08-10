@@ -18,4 +18,4 @@ A simple brass from Oberheim (I think). Did in Mainstage Retrosynth. Not perfect
 
 Used synth: Logic Retrosynth
 
-<a href="/patches/dont-you.zip"><span class="glyphicon glyphicon-download-alt"></span> Patch download</a>
+<a href="{{ BASE_PATH }}/patches/dont-you.zip"><span class="glyphicon glyphicon-download-alt"></span> Patch download</a>
