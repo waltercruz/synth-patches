@@ -9,7 +9,7 @@ tags: [zebra,u-he,nine inch nails,nin,trent reznor,white noise]
 
 <br />
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ytH7SLznGzE&feature=youtu.be&t=2m15s" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ytH7SLznGzE" frameborder="0" allowfullscreen></iframe>
 
 The synth in transition (2:15). A "basic" Trent Reznor Patch: detuned saws + white noise (he uses white noise on almost everything), filtered. The stutter part I did with some automation, like this:
 
